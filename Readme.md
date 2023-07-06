@@ -1,5 +1,5 @@
 
-# Mobile Number Directory Project
+# Mobile Number Directory 
 
 This project is a mobile number directory that allows users to add and view contact details. It is built using Node.js and Express framework.
 
