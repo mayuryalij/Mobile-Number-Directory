@@ -64,5 +64,5 @@ The project structure is as follows:
 - Add Contact (`/add`): Handles the POST request to add contact details. Validates the input and appends the data to the `test.json` file.
 - View All Contacts (`/all`): Displays all the contact details stored in the `test.json` file.
 
-Feel free to customize the project and add additional features as per your requirements.
+
 
